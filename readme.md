@@ -24,8 +24,8 @@ pip install -r requirements.txt
 ```
 
 3. Configure the bot:
-   - Create a `config` folder
-   - Add your bot token and other settings in the configuration files
+   - open file "settings.py"
+   - Add your bot token and other settings in the configuration files 
 
 4. Run the bot:
 ```bash
@@ -37,6 +37,7 @@ python main.py
 The bot requires several configuration files in the `config` directory:
 
 - `settings.py`: Main configuration file
+- Add token
 - Additional configuration files for specific features
 - Add role id
 
