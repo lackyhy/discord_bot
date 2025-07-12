@@ -1,0 +1,9 @@
+{
+    "messages": true,
+    "channels": true,
+    "roles": true,
+    "members": true,
+    "emojis": false,
+    "pins": true,
+    "lang": "ru"
+}

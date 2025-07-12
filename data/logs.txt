@@ -1,0 +1,12 @@
+2025-06-29 04:46:58,733 INFO logging in using static token
+2025-06-29 04:46:59,355 INFO Loaded extension: [32madmin.py[39m
+2025-06-29 04:46:59,430 INFO Loaded extension: [32mall_human.py[39m
+2025-06-29 04:46:59,448 INFO Loaded extension: [32mdebug.py[39m
+2025-06-29 04:46:59,464 INFO Loaded extension: [32mlevels.py[39m
+2025-06-29 04:46:59,472 INFO Loaded extension: [32mlogs.py[39m
+2025-06-29 04:46:59,478 INFO Loaded extension: [32msettings_bot.py[39m
+2025-06-29 04:46:59,484 INFO Loaded extension: [32mwarns.py[39m
+2025-06-29 04:46:59,968 INFO Shard ID None has connected to Gateway (Session ID: 8021577e1d4b53c14790ba001c9a3283).
+2025-06-29 04:47:02,217 INFO 
+2025-06-29 04:47:02,217 INFO Logged in as kali_live#3865
+2025-06-29 04:47:02,217 INFO -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
