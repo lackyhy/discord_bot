@@ -84,7 +84,7 @@ class AllHuman(commands.Cog):
                 inline=False
             )
             emb.add_field(
-                name="Music command",
+                name="🎵 Music command",
                 value="""
                 `/play <query>` - Plays a selected song from YouTube
                 `/pause` - Pauses the current song being played
